@@ -55,5 +55,5 @@ Repository ini bersifat personal learning, namun tetap terbuka untuk inspirasi d
 Silakan fork jika ingin mengembangkan lebih lanjut 🚀
 
 ## 📬 Kontak
-GitHub: Aioloo
-Email: imareza107@gmail.com
+- GitHub: Aioloo
+- Email: imareza107@gmail.com
