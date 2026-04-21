@@ -34,14 +34,15 @@ Catatan: Daftar proyek akan terus diperbarui seiring progress belajar.
 
 ## ⚙️ Cara Menggunakan
 Clone repository:
-'''
+```
 git clone https://github.com/username/coding-camp-2026.git
 cd coding-camp-2026
-'''
-
+```
 Install dependencies :
-'pip install -r requirements.txt'
-'Jalankan project atau notebook sesuai kebutuhan'
+```
+pip install -r requirements.txt
+'Jalankan project atau notebook sesuai kebutuhan
+```
 
 ## 🚧 Pengembangan Selanjutnya
 Menambahkan lebih banyak proyek berbasis real-world
