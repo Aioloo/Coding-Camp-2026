@@ -14,23 +14,6 @@ Mengimplementasikan teori ke dalam proyek nyata
 Meningkatkan kemampuan problem solving dan coding
 Membangun portfolio yang siap digunakan secara profesional
 
-
-## 📂 Struktur Repository
-├── projects/          # Kumpulan proyek utama
-│   ├── project-1/
-│   ├── project-2/
-│   └── ...
-│
-├── exercises/         # Latihan & eksperimen
-│   ├── python/
-│   ├── machine-learning/
-│   ├── deep-learning/
-│   └── ...
-│
-├── datasets/          # Dataset yang digunakan
-├── notebooks/         # Eksplorasi & eksperimen (Jupyter Notebook)
-└── README.md
-
 ## 🧠 Teknologi yang Digunakan
 Beberapa teknologi yang digunakan selama program ini:
 Python
